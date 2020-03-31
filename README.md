@@ -1,28 +1,32 @@
 # instance
 
-## Download & Installation
+## Download e Instalação
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
+### Usando [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/instance
+fvm install --save --folder=esx esx-brasil/instance
 ```
 
-### Using Git
+### Usando Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/instance [esx]/instance
+git clone https://github.com/ESX-Brasil/instance [esx]/instance
 ```
 
-### Manually
-- Download https://github.com/ESX-Org/instance/archive/master.zip
-- Put it in the `[esx]` directory
+### Manualmente
+- Download https://github.com/ESX-Brasil/instance/archive/master.zip
+- Coloque no diretório `[esx]`
 
-## Installation
-- Add this to your `server.cfg`:
+## Instalação
+- Adicione isso ao seu `server.cfg`:
 
 ```
 start instance
 ```
+
+# Discord
+
+[![Join ESX Brasil](https://discordapp.com/api/guilds/693468263161659402/embed.png?style=banner2)](https://discord.gg/ZGXTsdN)
 
 # Legal
 ### License
